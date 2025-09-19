@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+
+Hello I am Cinny, I go by She/Her and I am trying to learn how to use github. I like music alot and other things like yuri and uh playing games. 
+
 <!--
 **Cinnynom/Cinnynom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
